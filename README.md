@@ -26,6 +26,7 @@
        I look forward to keep working in Tech, but with More people-centric roles and further growing into data-driven decision-making and leadership roles.<br>
        Keen on Exploring ways for safe discarding and re-usage of e-wastes, glass and plastic <br>
        Sharing some bits and pieces of my journey here. <br>
+      Let's connect and explore opportunities at the intersection of data and business success. <br>
 :mailbox: you can Reach me: reetika.n29@gmail.com 
 
 
