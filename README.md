@@ -15,5 +15,15 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2> ###woman_technologist: About Me :
-</h2>
+ About Me: <br>
+ :woman_technologist: I am a Data Science Enthusiast from India. <br>
+       I love Reading :books:, Listening to Music, watching Space related stuff :telescope:, Enjoy Poetry and Art<br>
+       I am a nature enthusiast, worry about climate change and what it might bring with it. <br>
+       I have a knack for exploring things which in turn made me Jack of some and so far Master of none. :upside_down_face: <br>
+       I am a Computer Science Graduate. Pursuing Master in Business Intelligence :woman_student: <br>
+       Currently working as a Data Specialist(Growth Operations) at Turing  :computer: <br>
+       On my self-learning journey to Improve my Tech Skillset in SQL and Statistics first.<br>
+:mailbox: Reach me: 
+
+
+
