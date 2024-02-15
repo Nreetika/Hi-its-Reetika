@@ -22,7 +22,7 @@
        I have a knack for exploring things which in turn made me Jack of some and so far Master of none. :upside_down_face: <br>
        I am a Computer Science Graduate. Pursuing Master in Business Intelligence :woman_student: <br>
        Currently working as a Data Specialist(Growth Operations) at Turing  :computer: <br>
-       On my self-learning journey to learn some marketing skills, Improve my Tech Skillset in SQL and Statistics first.<br>
+       On my self-learning journey to learn some marketing skills, Improve my Tech Skillset in SQL and Statistics.<br>
        I look forward to keep working in Tech, but with More people-centric roles and further growing into data-driven decision-making and leadership roles.<br>
        Keen on Exploring ways for safe discarding and re-usage of e-wastes, glass and plastic <br>
        Sharing some bits and pieces of my journey here. <br>
